@@ -1,6 +1,6 @@
 ---
-name: object-question
-about: object question template
+name: question
+about: question template
 title: "[Chapter00]"
 labels: question
 assignees: ''
